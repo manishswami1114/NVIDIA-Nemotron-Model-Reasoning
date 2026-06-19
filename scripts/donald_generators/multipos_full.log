@@ -1,0 +1,62 @@
+Skipping 839 already-solved puzzles
+
+  [   1] 01b2aa67   40.3s  FAILED                solved=0/1  total=0.7m
+  [   2] 022c4d73   13.3s  FAILED                solved=0/2  total=0.9m
+  [   3] 02c15453    0.9s  SOLVED (pos0, sta)    solved=1/3  total=0.9m
+  [   4] 035c4c40    2.9s  FAILED                solved=1/4  total=1.0m
+  [   5] 0454705a    3.1s  FAILED                solved=1/5  total=1.0m
+  [   6] 053b4c86    1.3s  FAILED                solved=1/6  total=1.0m
+  [   7] 05bd2dab    5.4s  FAILED                solved=1/7  total=1.1m
+  [   8] 05c36467    5.3s  FAILED                solved=1/8  total=1.2m
+  [   9] 065abaf6   40.2s  FAILED                solved=1/9  total=1.9m
+  [  10] 07b440f0    6.3s  FAILED                solved=1/10  total=2.0m
+  [  20] 0d90736f    4.1s  FAILED                solved=1/20  total=4.1m
+  [  30] 1520013c    0.9s  FAILED                solved=1/30  total=5.4m
+  [  40] 191ac967    3.1s  FAILED                solved=1/40  total=7.0m
+  [  50] 239771fb   13.6s  FAILED                solved=1/50  total=8.1m
+  [  60] 289602f1   23.8s  FAILED                solved=1/60  total=9.4m
+  [  70] 2e8fc884    8.4s  FAILED                solved=1/70  total=11.3m
+  [  80] 3424f037    0.9s  FAILED                solved=2/80  total=12.7m
+  [  90] 3cc03e36   10.7s  FAILED                solved=2/90  total=13.5m
+  [ 100] 43ac121f    3.3s  FAILED                solved=2/100  total=14.9m
+  [ 110] 4bb8c6cd    2.9s  FAILED                solved=2/110  total=16.7m
+  [ 120] 51352792   12.2s  FAILED                solved=2/120  total=18.0m
+  [ 130] 5690981d    2.9s  FAILED                solved=2/130  total=19.6m
+  [ 140] 5ad26838    1.6s  FAILED                solved=2/140  total=21.0m
+  [ 150] 6046d372    3.0s  FAILED                solved=2/150  total=22.3m
+  [ 160] 69eccfa5   36.5s  FAILED                solved=2/160  total=24.4m
+  [ 170] 715e0259   18.5s  FAILED                solved=2/170  total=27.0m
+  [ 180] 7924844c    0.2s  FAILED                solved=2/180  total=28.3m
+  [ 190] 7db5c1af    7.0s  FAILED                solved=2/190  total=30.0m
+  [ 200] 80c4ae05   14.7s  FAILED                solved=2/200  total=30.8m
+  [ 210] 842c7710   40.8s  FAILED                solved=2/210  total=33.0m
+  [ 220] 8e6d01f1    4.9s  FAILED                solved=2/220  total=34.6m
+  [ 230] 94a8fe23    1.1s  FAILED                solved=2/230  total=36.2m
+  [ 240] 9ae663c3   13.5s  FAILED                solved=2/240  total=37.7m
+  [ 250] 9fbd6a44    5.3s  FAILED                solved=2/250  total=38.6m
+  [ 260] a34467bf    1.1s  FAILED                solved=2/260  total=40.0m
+  [ 270] a98d4d53    1.2s  FAILED                solved=2/270  total=41.4m
+  [ 280] afb53516   13.4s  FAILED                solved=2/280  total=42.8m
+  [ 290] b3745e98    0.3s  FAILED                solved=2/290  total=43.8m
+  [ 300] bc1ef494    4.3s  FAILED                solved=2/300  total=44.6m
+  [ 310] c76fc189    0.9s  FAILED                solved=2/310  total=45.9m
+  [ 320] cdec898a   12.5s  FAILED                solved=2/320  total=47.4m
+  [ 330] d600988d    5.7s  FAILED                solved=2/330  total=48.3m
+  [ 340] da61dedc    6.5s  FAILED                solved=2/340  total=49.9m
+  [ 350] deed3497    2.1s  FAILED                solved=2/350  total=51.5m
+  [ 360] eb0dcb97    4.6s  FAILED                solved=2/360  total=51.9m
+  [ 370] f2209ca5    1.2s  FAILED                solved=2/370  total=53.2m
+  [ 380] f7d26b8d    4.8s  FAILED                solved=2/380  total=53.9m
+  [ 390] fbd5fe63    8.6s  FAILED                solved=2/390  total=54.9m
+
+============================================================
+  Multi-position solver results
+============================================================
+  Puzzles attempted    : 395
+  Solved               : 2  (0.5%)
+  Failed               : 393
+  Wall time            : 55.6 min
+  By position config   :
+    pos0: 1 puzzles
+    pos1: 1 puzzles
+  Output → sequence_solved_multipos.jsonl
